@@ -1,6 +1,6 @@
 # Hardcoded variables
 MODEL_NAME = "gemini-2.0-flash-001"
-WORKING_DIR = "./calculator"
+WORKING_DIR = "/home/crazie450/workspace/github.com/crazie450-prog/cli_llm"
 
 
 SYSTEM_PROMPT = """

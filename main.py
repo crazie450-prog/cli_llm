@@ -1,7 +1,6 @@
 import os
 
-from config import MODEL_NAME, SYSTEM_PROMPT, WORKING_DIR as working_directory
-
+from config import MODEL_NAME, SYSTEM_PROMPT
 from functions.input_prompt import input_prompt
 from functions.get_files_info import schema_get_files_info
 from functions.get_file_content import schema_get_file_content
