@@ -1,4 +1,5 @@
 import argparse
+from google.genai import types
 
 # Input Prompt
 def input_prompt():
